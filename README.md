@@ -1,1 +1,1 @@
-Hello from the other side
+lecture 2
